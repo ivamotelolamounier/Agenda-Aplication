@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Agenda Application</string>
+    <string name="btn_send_event">ENVIAR</string>
+</resources>
