@@ -1,6 +1,7 @@
 /**
  * Exemplo de Intent para enviar eventos para o CALENDAR do Google
- * ver documentação em: https://
+ * ver documentação em:
+ * https://developer.android.com/reference/android/provider/CalendarContract
  * Cria-se uma Intent 'intent' inserção 'ACITION_INSERT', que conterá 'CONTENT_URI' do tipo
  * CALENDAR.
  * Cria-se um putExtra() para inserir dados dentro da variável 'content' que será
